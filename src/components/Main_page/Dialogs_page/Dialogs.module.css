@@ -1,0 +1,35 @@
+.blockMessage{
+    display: grid;
+    grid-template-columns:3fr 1fr;
+    padding: 10px;
+    border-bottom: 4px solid #918e8e;
+}
+.textDialog{
+    padding: 10px;
+    margin-top: 10px;
+}
+.dialogBtn{
+    margin: 20px;
+}
+.dialogs{
+    display: grid;
+    grid-template-columns: 3fr 8fr;
+}
+.dialogs_items{
+    padding: 10px;
+}
+.active {
+    color: gold;
+}
+.dialog {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px;
+}
+.messages{
+    border-left: 4px solid #918e8e;
+    padding: 10px;
+}
+.message{
+    padding: 5px;
+}

@@ -1,0 +1,16 @@
+h3{
+    color: purple;
+    margin-bottom: 10px;
+}
+textarea{
+    margin-bottom: 5px;
+}
+button{
+    background: rgba(22, 161, 34, 0.6);
+    border: 1px solid  rgba(27, 209, 42, 0.99);
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+}

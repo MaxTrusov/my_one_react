@@ -1,0 +1,18 @@
+.item{
+    margin: 10px;
+}
+
+.item img{
+    width: 100px;
+}
+.like_Block{
+    display: grid;
+    grid-template-columns: 0.1fr 0.1fr;
+}
+.like_Block img{
+    width: 50px;
+}
+.like_Block div{
+    width: 50px;
+    padding: 5px;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    background: rgb(240, 238, 238);
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
